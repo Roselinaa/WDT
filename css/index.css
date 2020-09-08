@@ -1,0 +1,38 @@
+body{
+    background: url(/img/images\ \(1\).jpeg);
+}
+h1{
+    background-color: blueviolet;
+    border-radius: 50px;
+    border-width: 10px;
+    border-color: brown;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: cornsilk;
+}
+span{
+    color: rgb(48, 47, 47);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+}
+h2{
+    border-radius: 50px;
+    text-align: center;
+    color: midnightblue;
+}
+h3{
+    font-family: fantasy;
+    font-style: oblique;
+}
+p{
+    color: rgb(39, 35, 35);
+    text-align: justify;
+}
+.footer{
+    background-color:whitesmoke;
+}
+.plus{
+    color: blueviolet;
+    background-color: transparent;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
